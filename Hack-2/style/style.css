@@ -1,0 +1,40 @@
+#div-1 {
+    height: 100px;
+    width: 100%;
+    background-color:#93B5C9;
+    float:left;
+    
+}
+
+#div-2 {
+    height: 200px;
+    width: 100%;
+    background-color:#AB2849;
+    float:left;
+    border-bottom: 8px solid white;
+    
+}
+
+#div-3 {
+ 
+    width: 70%;
+    background-color:#AB2849; 
+    float:left;
+    border: 8px solid white;
+    padding: 50px;
+    border-left: 0px;
+      
+}
+
+#div-4 {
+ 
+    width: 90%;
+    height: 100px;
+    background-color:#AB2849; 
+    float:left;
+    border: 80px solid white;
+    border-top: 8px solid white;
+   
+     
+    
+}
